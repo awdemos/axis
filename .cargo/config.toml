@@ -1,0 +1,3 @@
+# Per-worktree target dir so builds work in any environment.
+[build]
+target-dir = "target"
